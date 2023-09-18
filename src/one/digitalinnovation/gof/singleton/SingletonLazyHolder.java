@@ -1,8 +1,8 @@
-package one.digitalinnovation.gof;
+package one.digitalinnovation.gof.singleton;
 /**
  * Singleton "Lazy Holder"
  *
- * @author Daiane
+ * @Daianebarbosak
  */
 public class SingletonLazyHolder {
     private static class InstanceHolder {
