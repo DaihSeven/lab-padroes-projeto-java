@@ -3,7 +3,7 @@ package one.digitalinnovation.gof.singleton;
 /**
 * Singleton"preguiçoso"
  *
- * @author Daiane
+ * @Daianebarbosak
  */
 public class SingletonLazy {
     private static   SingletonLazy instancia;

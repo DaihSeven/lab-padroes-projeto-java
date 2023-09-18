@@ -2,7 +2,7 @@ package one.digitalinnovation.gof.singleton;
 /**
         * Singleton "apressado"
         *
-        * @author Daiane
+        * @Daianebarbosak
         */
 public class SingletonEager {
     private static SingletonEager instancia = new SingletonEager();
