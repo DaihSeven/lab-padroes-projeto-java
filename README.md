@@ -6,28 +6,28 @@ O padrão de design Facade simplifica a interface para um sistema complexo.
 Ele fornece uma visão simplificada do sistema, que é fácil de usar, ocultando 
 os detalhes complexos do sistema.
 
-![Alt text](image-2.png)
+![Alt text](img/image-2.png)
 
 Exemplo usado nos códigos:
 
-![Facade](image-4.png)
+![Facade](img/image-4.png)
 
-![Sistema 1 crm](image-15.png)
+![Sistema 1 crm](img/image-15.png)
 
-![Sistema 2 cep](image-16.png)
+![Sistema 2 cep](img/image-16.png)
 
 # Singleton: 
 O padrão de design Singleton restringe a instanciação de uma classe a uma única instância.
 Este padrão é útil quando exatamente um objeto é necessário para coordenar ações em todo o sistema.
 
 Exemplo usado nos códigos:
-![Singleton](image-1.png)
+![Singleton](img/image-1.png)
 
-![Lazy](image-5.png)
+![Lazy](img/image-5.png)
 
-![Eager](image-6.png)
+![Eager](img/image-6.png)
 
-![Holder](image-7.png)
+![Holder](img/image-7.png)
 
 # Strategy: 
 O padrão de design Strategy permite que o comportamento de uma classe ou seu algoritmo seja alterado
@@ -36,23 +36,23 @@ de contexto cujo comportamento varia conforme seu objeto de estratégia.
 
 Exemplo usado nos códigos:
 
-![Strategy](image-3.png)
+![Strategy](img/image-3.png)
 
-![Comportamento](image-8.png)
+![Comportamento](img/image-8.png)
 
-![Comportamento agressivo](image-9.png)
+![Comportamento agressivo](img/image-9.png)
 
-![Comportamento defensivo](image-10.png)
+![Comportamento defensivo](img/image-10.png)
 
-![Comportamento normal](image-11.png)
+![Comportamento normal](img/image-11.png)
 
-![Robô](image-12.png)
+![Robô](img/image-12.png)
 
 # Teste:
 
-![test parte 1](image-13.png)
+![test parte 1](img/image-13.png)
 
-![test parte 2](image-14.png)
+![test parte 2](img/image-14.png)
 
 # Referências:
 
